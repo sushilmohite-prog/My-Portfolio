@@ -16,6 +16,7 @@ This project was inspired by several outstanding portfolios. Here are some that 
 - [Gianmarco Portfolio](https://gianmarco.xyz/)
 - [Vitesse Portfolio](https://astro-theme-vitesse.netlify.app/)
 - [Gurido Portfolio](https://gurido.vercel.app/)
+- [Andrés Camilo Plaza](https://bue221.vercel.app/)
 
 ## Technologies Used
 
@@ -40,14 +41,11 @@ To install and run the project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/bue221/astro-portfolio.git
+   git clone https://github.com/sushilmohite-prog/My-Portfolio.git
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd astro-portfolio
-   ```
 
 3. Install the dependencies:
 
